@@ -1,6 +1,4 @@
-Here is a **professional, recruiter-friendly, research-oriented README** for your project:
 
----
 
 # 🔥 HotFlip: White-Box Adversarial Attacks for Text Classification (DistilBERT)
 
@@ -125,4 +123,5 @@ Even minimal token-level changes can alter model confidence and predictions, exp
 * Improve adversarial training for robustness
 * Evaluate robustness on larger datasets
 * Compare with other attack methods (TextFooler, DeepWordBug)
+
 
