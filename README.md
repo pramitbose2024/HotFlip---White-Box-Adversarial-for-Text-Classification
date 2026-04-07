@@ -1,6 +1,6 @@
 
 
-# 🔥 HotFlip: White-Box Adversarial Attacks for Text Classification (DistilBERT)
+# HotFlip: White-Box Adversarial Attacks for Text Classification (DistilBERT)
 
 **Duration:** January 2025 – May 2025
 **Tech Stack:** Python, PyTorch, Hugging Face Transformers, DistilBERT, HotFlip, SMS Spam Dataset
